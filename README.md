@@ -19,7 +19,7 @@ Our team focused, in part, on efforts to understand the social process of "censu
 
 It appears, for example, that at least one key operational variable was simply truncated in about a quarter of its entries.
 
-This was substantively important for the challenge, as the designation of "Type of Enumeration Area" captures prior expectations about the probable success of different mail return operational choices. UpdateLeave Counts Incorrect
+This was substantively important for the challenge, as the designation of "Type of Enumeration Area" captures prior expectations about the probable success of different mail return operational choices. ![images/teamistakes.jpg]
 
 ## There are apparent inconsistencies in variable definitions.
 
