@@ -1,4 +1,4 @@
-## A Closer Look at the Kaggle Census Data.
+## _Note on "A Closer Look at the Kaggle Census Data."_
 Big Data Social Science @ Penn State Team (Burt L. Monroe, Beatrice A. Abiero, Margaret H. Ariotti, Benjamin E. Bagozzi, John Beieler, Vito D'Orazio, Muhammed Y. Idris, Jennifer S. Mason, Joshua E. Stevens, Peifeng Yin, Jay Yonamine, and Christopher J. Zorn. [http://bdss.psu.edu](http://bdss.psu.edu))
 
 _This archives the entry by the BDSS@PSU Team in the visualization portion of the Kaggle.com U.S. Census Return Rate Challenge, sponsored by the U.S. Census Bureau in the fall of 2012. This was in parallel to a prediction portion that challenged users to improve Census's model for prediction of household return rate on the decennial census._
@@ -34,6 +34,8 @@ Populations in "group quarters" are not subject to Census mailback procedure and
 This led to wild outliers. We improved our score substantially just by reweighting the data. If we had many more entries, we could simply have guessed 0/100, 0/50/100, 0/33.3/66.7/100, and so on for the extreme cases in the test data until we matched them perfectly. <img src="images/outliers.jpg" alt="hi" class="inline"/>
 
 Of the 50 most over-weighted block groups, 30 contain college campuses, 18 contain prisons, and two contain military bases. Of these, 32 are in the training data and have mail response rates of 100 (21 cases), 0 (6), 50 (3), or 66.7 (2). <img src="images/usoverweightmap.jpg" alt="hi" class="inline"/>
+
+(View the map at full scale [here](https://burtmonroe.github.io/BDSSKaggleCensus2012/images/usoverweightmap.jpg).)
 
 ## Some of the data appear to be easily de-anonymized
 
